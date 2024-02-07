@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="santicoronellancellotti@gmail.com">Santiago Coronel</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/a/pVSYQy8">
 
 ## Sobre mi
 
