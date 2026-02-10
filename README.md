@@ -4,11 +4,13 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Web developer
+- 📲 Full stack developer trainee
+- HTML,CSS,JS
+- JAVA (Spring-Boot)
 <br>
 
 ## Proyectos
+
 
 <br>                                                                                                                                                                          
 
