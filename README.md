@@ -10,7 +10,8 @@
 <br>
 
 ## Proyectos
-
+- Sistema ABM de alumnos
+- Landing page para empresa de detailing
 
 <br>                                                                                                                                                                          
 
