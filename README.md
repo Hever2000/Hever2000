@@ -4,7 +4,7 @@
 
 ## Sobre mi
 
-- 📲 Full stack developer trainee
+- 📲 Full stack developer
 - HTML,CSS,JS
 - JAVA (Spring-Boot)
 <br>
