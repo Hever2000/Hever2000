@@ -5,13 +5,14 @@
 ## Sobre mi
 
 - 📲 Full stack developer
-- HTML,CSS,JS
-- JAVA (Spring-Boot)
+- React
+- Node + Express
 <br>
 
 ## Proyectos
-- Sistema ABM de alumnos
-- Landing page para empresa de detailing
+- Sistema ABM de alumnos ( JS + Java + Spring boot )
+- Todo List ( React + Node ) 
+- Movies App ( React )
 
 <br>                                                                                                                                                                          
 
