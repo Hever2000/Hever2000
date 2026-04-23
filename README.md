@@ -4,15 +4,19 @@
 
 ## Sobre mi
 
-- 📲 Full stack developer
-- React
-- Node + Express
+- 📲 Full Stack Developer | AI & Automation Specialist
+- 🤖 Construyo agentes de IA autónomos (RAG, MCPs, Skills) y pipelines de automatización con n8n y LangChain
+- 🧠 Experto en integración de LLMs (OpenAI, Ollama) con APIs, bases de datos vectoriales y microservicios
+- ⚙️ Backend: Python (FastAPI), Node.js | Frontend: React | DB: PostgreSQL, Pinecone, Supabase
+- 🔁 CI/CD con GitHub Actions, Docker, despliegues en Vercel/Railway
+  
 <br>
 
 ## Proyectos
 - Sistema ABM de alumnos ( JS + Java + Spring boot )
 - Todo List ( React + Node ) 
 - Movies App ( React )
+- Factura AI ( Python + FastAPI )
 
 <br>                                                                                                                                                                          
 
