@@ -6,8 +6,8 @@
 
 - 📲 Full Stack Developer | AI & Automation Specialist
 - 🤖 Construyo agentes de IA autónomos (RAG, MCPs, Skills) y pipelines de automatización con n8n y LangChain
-- 🧠 Experto en integración de LLMs (OpenAI, Ollama) con APIs, bases de datos vectoriales y microservicios
-- ⚙️ Backend: Python (FastAPI), Node.js | Frontend: React | DB: PostgreSQL, Pinecone, Supabase
+- 🧠 Experto en integración de Agentes de IA, Sistemas RAG y chatbots.
+- ⚙️ Backend: Python (FastAPI), Node.js, Spring-boot | Frontend: React | DB: PostgreSQL, Supabase, MongoDB
 - 🔁 CI/CD con GitHub Actions, Docker, despliegues en Vercel/Railway
   
 <br>
