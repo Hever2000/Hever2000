@@ -9,14 +9,6 @@
 - 🧠 Experto en integración de Agentes de IA, Sistemas RAG y chatbots.
 - ⚙️ Backend: Python (FastAPI), Node.js, Spring-boot | Frontend: React | DB: PostgreSQL, Supabase, MongoDB
 - 🔁 CI/CD con GitHub Actions, Docker, despliegues en Vercel/Railway
-  
-<br>
-
-## Proyectos
-- Sistema ABM de alumnos ( JS + Java + Spring boot )
-- Todo List ( React + Node ) 
-- Movies App ( React )
-- Factura AI ( Python + FastAPI )
 
 <br>                                                                                                                                                                          
 
